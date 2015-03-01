@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "dependencies": {
+    "amdefine": "0.1.0",
+    "express": "3.3.3",
+    "requirejs": "2.1.9"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "make test"
+  },
+  "engines": {
+    "node": "0.8.*"
+  }
+}
